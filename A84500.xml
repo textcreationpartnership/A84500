@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Portlands charge, delivered to the Lords House by M. Pym. Also a new plot discovered. Being the relation of the Earle of Northamptons surprizing the magazine at Banbury by the forging of a false letter. Also the taking of Warwick castle by the said Earle, and his carrying of the magazine to the said castle. With certaine propositions propounded by the Earle of Northampton to the Lord Brooke at their meeting, and the Lord Brooke his iudicious and religious answer thereunto. John. Brown Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84500</idno>
+            <idno type="STC">Wing E80B</idno>
+            <idno type="STC">Thomason E110_8</idno>
+            <idno type="STC">ESTC R20151</idno>
+            <idno type="EEBO-CITATION">99862011</idno>
+            <idno type="PROQUEST">99862011</idno>
+            <idno type="VID">114158</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114158)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E110[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Portlands charge, delivered to the Lords House by M. Pym. Also a new plot discovered. Being the relation of the Earle of Northamptons surprizing the magazine at Banbury by the forging of a false letter. Also the taking of Warwick castle by the said Earle, and his carrying of the magazine to the said castle. With certaine propositions propounded by the Earle of Northampton to the Lord Brooke at their meeting, and the Lord Brooke his iudicious and religious answer thereunto. John. Brown Cler. Parl.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>August 11. Printed for John Jones,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portland, Jerome Weston, --  Earl of, 1605-1663 --  Early works to 1800.</term>
+               <term>Northampton, Spencer Compton, --  Earl of, 1601-1643 --  Early works to 1800.</term>
+               <term>Weapons --  England --  Early works to 1800.</term>
+               <term>Armor --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114158:1" rendition="simple:additions"/>
+            <p>THE Earle of Portlands CHARGE.</p>
+            <p>Delivered to the Lords Houſe by <hi>M. Pym.</hi>
+            </p>
+            <p>
+               <hi>ALSO</hi> A NEW PLOT DISCOVERED.</p>
+            <p>Being the Relation of the Earle of <hi>Northamptons</hi> ſurprizing the Magazine at <hi>Banbury</hi> by the forging of a falſe Letter.</p>
+            <p>
+               <hi>Alſo the taking of</hi> Warwick <hi>Caſtle by the ſaid Earle, and his carrying of the Magazine to the ſaid Caſtle.</hi>
+            </p>
+            <p>With certaine Propoſitions propounded by the Earle of <hi>Northampton</hi> to the Lord <hi>Brooke</hi> at their meeting, and the Lord <hi>Brooke</hi> his iudicious and religious anſwer thereunto.</p>
+            <p>Joh. Brown Cler. Parl.</p>
+            <p>
+               <hi>Auguſt</hi> 11. Printed for John Jones 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:114158:2"/>
+            <pb n="1" facs="tcp:114158:2"/>
+            <head>A NEW PLOT DISCOVERED.</head>
+            <head type="sub">TOGETHER WITH THE CHARGE of the Earle of <hi>Portland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E are not yet ſafe, but every day and houre doth beget new dangers, and doth ſtrike the fearfull and trem<g ref="char:EOLhyphen"/>bling ſubject with new horrour and a<g ref="char:EOLhyphen"/>mazement. The bleeding heart of this kingdom doth daily receive new wounds: and time, which we hoped would put a finall period to all her diſtractions, doth either con<g ref="char:EOLhyphen"/>tinue the old, or els beget new, to the danger of the generall ſubverſion of the whole king<g ref="char:EOLhyphen"/>dome. Peace is exlled our habitation<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and we
+<pb n="2" facs="tcp:114158:3"/> can receive from abroad no other ſounds, but ſuch as bring unto us affrightment, and not ſatisfaction or content. Neither can we ex<g ref="char:EOLhyphen"/>pect any reſpit or releaſe from theſe unſavou<g ref="char:EOLhyphen"/>rie troubles, untill the power and edge of the malignant party be taken off, whoſe deſtru<g ref="char:EOLhyphen"/>ctive counſels nnd actions onely tend to the diſquiet and trouble both of the Church and Common-wealth. Mifery muſt needs be the portion of that kingdome, wherein vertue, goodneſſe and religion are not onely not en<g ref="char:EOLhyphen"/>couraged, and countenanced, but neglected, ſcorned, and trampled down.</p>
+            <p>The laborious and pious cares and counſels of this Parliament have from their very be<g ref="char:EOLhyphen"/>ginning found ſlender and undeſerved wel<g ref="char:EOLhyphen"/>come with a great many, and their aimes and endeavours tending onely to the reformarion of ſuch abuſes as have diſturbed the unity and peace both of Church and Common-wealth, have beene oppoſed by malice and diſcontent. The reaſon of this diſcontent and oppoſiti<g ref="char:EOLhyphen"/>on is decided and out of controverſie. The Actors know their own guilt, and know they cannot be ſecure, but by the abetting and pro<g ref="char:EOLhyphen"/>ſecuting theſe publike troubles.</p>
+            <p>My Lord <hi>Brooke</hi> ſome time after his return to <hi>London,</hi> being appointed Lieutenant of <hi>Warwick-ſhire,</hi> and ſo by conſequence had the truſt and charge of the <hi>Militia</hi> committed to
+<pb n="3" facs="tcp:114158:3"/> him, in the execution and performance, accor<g ref="char:EOLhyphen"/>ding to the appointment of the Houſe of Par<g ref="char:EOLhyphen"/>liament, by whoſe power and authority he was thought worthy of that truſt, and had it conferred upon him; in the execution, I ſay, of that t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt he ſpent his faithfull and reſpe<g ref="char:EOLhyphen"/>ctive ſervice. His oppoſition was much and dangerous: for when he began to put the Or<g ref="char:EOLhyphen"/>dinance of Parliament in execution, and to ex<g ref="char:EOLhyphen"/>erciſe the <hi>Militia</hi> in the County of <hi>Warwick,</hi> the Earle of <hi>Northampion</hi> and the Lord <hi>Dunſ<g ref="char:EOLhyphen"/>more,</hi> who had a Commiſsion from His Maie<g ref="char:EOLhyphen"/>ſty to put the Commiſsion of Array in exe<g ref="char:EOLhyphen"/>cution, oppoſed him, not with meane and or<g ref="char:EOLhyphen"/>dinary ſtrength and power, but had ſo well ar<g ref="char:EOLhyphen"/>med themſelves, as they thought their deſigne and intentions did deſerve or deſire. For they had gathered together into one entire body for that preſent ſervice and execution, many hun<g ref="char:EOLhyphen"/>dreds of men out of ſeverall Shires and Counties, whom not onely by faire and allu<g ref="char:EOLhyphen"/>ring ſpeeches, but alſo with an extraordinary ſalary they had hired and ingaged to partake with them, and to aſsiſt them in this their de<g ref="char:EOLhyphen"/>ſigne. They gave them extraordinary wages, which is not commonly exhibited unto ſoul<g ref="char:EOLhyphen"/>diers, for they allowed them two ſhillings a day, to the intent that they ſhould aſsiſt them in the hindrance of the Lord <hi>Brooke</hi> from the removing of the Magazine from <hi>Banhurie.</hi>
+            </p>
+            <pb n="4" facs="tcp:114158:4"/>
+            <p>The competition of this thing was very long and full of terrour, for the Earle of <hi>Northampton</hi> was very violent, and offered the Lord <hi>Brooke</hi> to encounter with him, and to de<g ref="char:EOLhyphen"/>cide the preſent controverſie by ſingle combat, and not to ingage ſo many mens lives as were on both ſides then preſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in that ſame quar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell; which the Lord <hi>B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooke</hi> out of judgment and wiſdome did refuſe to do, adviſing the ſaid E<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the proſecution of ſo bad a <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which he had undertaken, which muſt of neceſſity tend to the ſubverſion of his Lord<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſterity.</p>
+            <p>Thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> modeſt anſwer did not allay or quali<g ref="char:EOLhyphen"/>fie the violent ſpirit of the incenſed Earle, but he <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> offered him to draw out of their ſor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelect men of each ſide, and by them to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecide that dayes difference. But that <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Earle was alſo denied by the Lord <hi>Brooke,</hi> who would not hazard that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truſt impoſed upon him upon ſuch in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſiderate <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rmes. Upon ſuch and the like diſcourſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the day was ſpent, and at the cloſe of the day they p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: B<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is ſince reported, that <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath ſeized up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and hath carried <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were there repo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to have paſſ<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much blood had <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God did div<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t it
+<pb n="5" facs="tcp:114158:4"/> for the preſent. It is likewiſe reported, that ſince the Lord <hi>Brooke</hi> his coming up to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at the Earle of <hi>Northampton</hi> hath ſei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the caſtle of <hi>Warwick,</hi> and withall <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ken poſſeſsion of the Magazine of that Co<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y.</p>
+            <p>After Colonell <hi>Goring</hi> had delivered up the haven-town of <hi>Portſmouth</hi> into the kings poſ<g ref="char:EOLhyphen"/>ſeſsion, this unfaithfulneſſe in him not with<g ref="char:EOLhyphen"/>out juſt grounds, did move the Houſe of Commons to enter into conſideration concer<g ref="char:EOLhyphen"/>ning <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſecuring of the <hi>Iſle of Wight,</hi> and the diſcharging of the Earle of <hi>Portland</hi> from the government of the ſaid Iſland. Whereupon after much and due conſultation and delibera<g ref="char:EOLhyphen"/>tion, a Charge was drawn up againſt the ſaid Earle of <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> which was to this eff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct,</p>
+            <p>That his Lordſhip was conce<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved upon ve<g ref="char:EOLhyphen"/>ry ſtrong grounds and motives to be much Po<g ref="char:EOLhyphen"/>piſhly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffected: and that the reaſon which did induce them to this opinion was, becauſe that his wiſe and the reſt of her kindred, and his mo<g ref="char:EOLhyphen"/>ther, and the moſt of her friends and kindred were of that religion: ſo that being induced to thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> opinion by theſe grounds, they thought it convenient and very requiſite to place the C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtle of that Iſland into ſuch hands as might no wayes be ſuſpected, but ſuch as they might confide in: and that they did think it very fit<g ref="char:EOLhyphen"/>ting that his Lordſhip ſhould be kept in cuſto<g ref="char:EOLhyphen"/>dy
+<pb n="6" facs="tcp:114158:5"/> for a time, whereby he was committed to Sheriffe <hi>Garret</hi> to be kept in ſafe cuſtody.</p>
+            <p>This Charge was delivered to the Houſe of Lords by <hi>M. Pym</hi> againſt the Earl of <hi>Portland.</hi>
+            </p>
+            <p>That Sir Ralph Hopton, M. Tho. Smith, &amp; Captain John Digby ſhalbe diſabled to ſit as members of the Houſe of Commons during this Parliament. That Captain John Digby, Sir Ralph Hopton, M. Tho. Smith, Sir Ferdi<g ref="char:EOLhyphen"/>nand Gorges, Sir Francis Dodington, Richard Board, Hercules Whiting, Nicolas Dounton, James Stroud, John Walker, and John Cooth Parſon of Shipton-Mallet be forthwith ſent for as Delinquents.</p>
+            <closer>
+               <signed>
+                  <hi>Ioh. Brown</hi> Cler. Parl.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
